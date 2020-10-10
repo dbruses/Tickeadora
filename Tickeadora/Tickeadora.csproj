@@ -201,6 +201,7 @@
     <EmbeddedResource Include="Reportes\HiemarA.rdlc" />
     <EmbeddedResource Include="Reportes\HiemarFactA.rdlc" />
     <EmbeddedResource Include="Reportes\HiemarB.rdlc" />
+    <EmbeddedResource Include="Reportes\HoRamirezA.rdlc" />
     <EmbeddedResource Include="Reportes\HoxtonB.rdlc" />
     <EmbeddedResource Include="Reportes\IsoftlandA.rdlc" />
     <EmbeddedResource Include="Reportes\IsoftlandB.rdlc" />
