@@ -166,6 +166,7 @@
     <EmbeddedResource Include="Reportes\CamicoA.rdlc" />
     <EmbeddedResource Include="Reportes\CentroElecA.rdlc" />
     <EmbeddedResource Include="Reportes\ClauA.rdlc" />
+    <EmbeddedResource Include="Reportes\CombVictoriaA.rdlc" />
     <EmbeddedResource Include="Reportes\CommarA.rdlc" />
     <EmbeddedResource Include="Reportes\CommarB.rdlc" />
     <EmbeddedResource Include="Reportes\ConstMacA.rdlc" />
