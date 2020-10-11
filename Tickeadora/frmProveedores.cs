@@ -40,12 +40,12 @@ namespace Tickeadora
             cmbRubro.ValueMember = "idRubro";
             cmbRubro.DataSource = ds.Tables[0];
 
-            sql = "select idProveedor, razonSocial from proveedores order by razonSocial asc";
+            sql = "select idProveedor, nombreFantasia from proveedores order by nombreFantasia asc";
             ds = new DataSet();
             da = new SQLiteDataAdapter(sql, dbConnection);
             da.Fill(ds);
 
-            cmbProveedores.DisplayMember = "razonSocial";
+            cmbProveedores.DisplayMember = "nombreFantasia";
             cmbProveedores.ValueMember = "idProveedor";
             cmbProveedores.DataSource = ds.Tables[0];
 
