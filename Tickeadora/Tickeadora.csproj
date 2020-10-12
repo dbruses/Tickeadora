@@ -160,6 +160,7 @@
     <EmbeddedResource Include="Reportes\AzulA.rdlc" />
     <EmbeddedResource Include="Reportes\BazarA.rdlc" />
     <EmbeddedResource Include="Reportes\BignamA.rdlc" />
+    <EmbeddedResource Include="Reportes\BouvetA.rdlc" />
     <EmbeddedResource Include="Reportes\BoyacaA.rdlc" />
     <EmbeddedResource Include="Reportes\BoyacaB.rdlc" />
     <EmbeddedResource Include="Reportes\CamiA.rdlc" />
@@ -216,6 +217,7 @@
     <EmbeddedResource Include="Reportes\LangoneA - Cheque.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneA.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneB.rdlc" />
+    <EmbeddedResource Include="Reportes\LaNueva.rdlc" />
     <EmbeddedResource Include="Reportes\LaPlazaCHA.rdlc" />
     <EmbeddedResource Include="Reportes\LaRiberaCbaA.rdlc" />
     <EmbeddedResource Include="Reportes\LaRiberaTucA.rdlc" />
@@ -290,6 +292,9 @@
     <EmbeddedResource Include="Reportes\VissaniA.rdlc" />
     <EmbeddedResource Include="Reportes\WarnesA.rdlc" />
     <EmbeddedResource Include="Reportes\XiujuanA.rdlc" />
+    <EmbeddedResource Include="Reportes\YPFConcepcionA.rdlc" />
+    <EmbeddedResource Include="Reportes\YPFConcordiaA.rdlc" />
+    <EmbeddedResource Include="Reportes\YPFGualeguayA.rdlc" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
