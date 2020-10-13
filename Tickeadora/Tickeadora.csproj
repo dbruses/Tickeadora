@@ -157,6 +157,7 @@
     <EmbeddedResource Include="Reportes\AtlasCityACheque.rdlc" />
     <EmbeddedResource Include="Reportes\AtlasCityB.rdlc" />
     <EmbeddedResource Include="Reportes\AusolA.rdlc" />
+    <EmbeddedResource Include="Reportes\AYFA.rdlc" />
     <EmbeddedResource Include="Reportes\AzulA.rdlc" />
     <EmbeddedResource Include="Reportes\BazarA.rdlc" />
     <EmbeddedResource Include="Reportes\BignamA.rdlc" />
