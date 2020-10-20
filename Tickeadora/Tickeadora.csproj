@@ -278,6 +278,7 @@
     <EmbeddedResource Include="Reportes\ShellVictoriaA.rdlc" />
     <EmbeddedResource Include="Reportes\SuayaA.rdlc" />
     <EmbeddedResource Include="Reportes\SuayaB.rdlc" />
+    <EmbeddedResource Include="Reportes\SubbotinA.rdlc" />
     <EmbeddedResource Include="Reportes\TankA.rdlc" />
     <EmbeddedResource Include="Reportes\TecmysA.rdlc" />
     <EmbeddedResource Include="Reportes\TecmysB.rdlc" />
