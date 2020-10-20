@@ -147,6 +147,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Reportes\AcaOnceA.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOronoA.rdlc" />
     <EmbeddedResource Include="Reportes\AcenafA.rdlc" />
     <EmbeddedResource Include="Reportes\AgropecuariosA.rdlc" />
