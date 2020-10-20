@@ -250,6 +250,7 @@
     <EmbeddedResource Include="Reportes\MundoTextilA.rdlc" />
     <EmbeddedResource Include="Reportes\MundoTextilB.rdlc" />
     <EmbeddedResource Include="Reportes\NeumaticosAlfaA.rdlc" />
+    <EmbeddedResource Include="Reportes\NeumaticosHoracioA.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseA.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseB.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseRecA.rdlc" />
