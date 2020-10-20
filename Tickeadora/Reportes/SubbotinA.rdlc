@@ -1108,7 +1108,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>TIQUE FACTURA "A"    NRO.</Value>
+                  <Value>TIQUE FACTURA "A"  NRO.</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
                     <FontWeight>Normal</FontWeight>
