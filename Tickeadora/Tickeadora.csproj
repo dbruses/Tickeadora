@@ -268,6 +268,7 @@
     <EmbeddedResource Include="Reportes\RafaelaA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressB.rdlc" />
+    <EmbeddedResource Include="Reportes\RemoA.rdlc" />
     <EmbeddedResource Include="Reportes\RepVialesA.rdlc" />
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
