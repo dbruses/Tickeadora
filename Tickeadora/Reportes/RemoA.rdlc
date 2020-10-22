@@ -200,6 +200,7 @@
           </TablixMembers>
         </TablixRowHierarchy>
         <DataSetName>dsTicket</DataSetName>
+        <Top>0cm</Top>
         <Height>0.93896cm</Height>
         <Width>7.07964cm</Width>
         <ZIndex>1</ZIndex>
@@ -777,7 +778,7 @@
   <Width>3.25359in</Width>
   <Page>
     <PageHeader>
-      <Height>9.32633cm</Height>
+      <Height>9.538cm</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
