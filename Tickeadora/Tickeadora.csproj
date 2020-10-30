@@ -185,6 +185,7 @@
     <EmbeddedResource Include="Reportes\CuencaACheque.rdlc" />
     <EmbeddedResource Include="Reportes\DarA.rdlc" />
     <EmbeddedResource Include="Reportes\DarB.rdlc" />
+    <EmbeddedResource Include="Reportes\DebonaA.rdlc" />
     <EmbeddedResource Include="Reportes\DehezaA.rdlc" />
     <EmbeddedResource Include="Reportes\DonPacoA.rdlc" />
     <EmbeddedResource Include="Reportes\EdargusA.rdlc" />
@@ -268,6 +269,7 @@
     <EmbeddedResource Include="Reportes\RafaelaA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressB.rdlc" />
+    <EmbeddedResource Include="Reportes\RemoA.rdlc" />
     <EmbeddedResource Include="Reportes\RepVialesA.rdlc" />
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
