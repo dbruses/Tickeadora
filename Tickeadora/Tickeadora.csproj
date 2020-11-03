@@ -238,6 +238,7 @@
     <EmbeddedResource Include="Reportes\LimaAOriginal.rdlc" />
     <EmbeddedResource Include="Reportes\LimaB.rdlc" />
     <EmbeddedResource Include="Reportes\LinA.rdlc" />
+    <EmbeddedResource Include="Reportes\LubrishopA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrisolA.rdlc" />
     <EmbeddedResource Include="Reportes\LucasB.rdlc" />
     <EmbeddedResource Include="Reportes\LucianiA.rdlc" />
