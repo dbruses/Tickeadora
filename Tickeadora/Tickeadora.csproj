@@ -289,6 +289,7 @@
     <EmbeddedResource Include="Reportes\TecmysA.rdlc" />
     <EmbeddedResource Include="Reportes\TecmysB.rdlc" />
     <EmbeddedResource Include="Reportes\TecnoreparacionesA.rdlc" />
+    <EmbeddedResource Include="Reportes\TelasxmetroA.rdlc" />
     <EmbeddedResource Include="Reportes\TransSanJustoA.rdlc" />
     <EmbeddedResource Include="Reportes\TYTA.rdlc" />
     <EmbeddedResource Include="Reportes\VeaA.rdlc" />
