@@ -256,6 +256,7 @@
     <EmbeddedResource Include="Reportes\MundoTextilB.rdlc" />
     <EmbeddedResource Include="Reportes\NeumaticosAlfaA.rdlc" />
     <EmbeddedResource Include="Reportes\NeumaticosHoracioA.rdlc" />
+    <EmbeddedResource Include="Reportes\NFNeumaticosA.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseA.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseB.rdlc" />
     <EmbeddedResource Include="Reportes\NodacaseRecA.rdlc" />
@@ -274,6 +275,7 @@
     <EmbeddedResource Include="Reportes\RemoA.rdlc" />
     <EmbeddedResource Include="Reportes\RepVialesA.rdlc" />
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
+    <EmbeddedResource Include="Reportes\RosmiA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
     <EmbeddedResource Include="Reportes\SagitarioA.rdlc" />
     <EmbeddedResource Include="Reportes\SaludB.rdlc" />
