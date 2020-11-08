@@ -185,6 +185,7 @@
     <EmbeddedResource Include="Reportes\CuencaACheque.rdlc" />
     <EmbeddedResource Include="Reportes\DarA.rdlc" />
     <EmbeddedResource Include="Reportes\DarB.rdlc" />
+    <EmbeddedResource Include="Reportes\DarRosarioA.rdlc" />
     <EmbeddedResource Include="Reportes\DebonaA.rdlc" />
     <EmbeddedResource Include="Reportes\DehezaA.rdlc" />
     <EmbeddedResource Include="Reportes\DonPacoA.rdlc" />
