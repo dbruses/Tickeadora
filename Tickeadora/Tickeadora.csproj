@@ -262,6 +262,7 @@
     <EmbeddedResource Include="Reportes\NodacaseRecA.rdlc" />
     <EmbeddedResource Include="Reportes\NorteRepA.rdlc" />
     <EmbeddedResource Include="Reportes\NuriaA.rdlc" />
+    <EmbeddedResource Include="Reportes\NuriaB.rdlc" />
     <EmbeddedResource Include="Reportes\OilA.rdlc" />
     <EmbeddedResource Include="Reportes\ParanaA.rdlc" />
     <EmbeddedResource Include="Reportes\PatoA.rdlc" />
@@ -300,6 +301,7 @@
     <EmbeddedResource Include="Reportes\VetvelA.rdlc" />
     <EmbeddedResource Include="Reportes\ViaFloraA.rdlc" />
     <EmbeddedResource Include="Reportes\ViaFloraB.rdlc" />
+    <EmbeddedResource Include="Reportes\ViandaB.rdlc" />
     <EmbeddedResource Include="Reportes\VictomA.rdlc" />
     <EmbeddedResource Include="Reportes\VissaniA.rdlc" />
     <EmbeddedResource Include="Reportes\WarnesA.rdlc" />
