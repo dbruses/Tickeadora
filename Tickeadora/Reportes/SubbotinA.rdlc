@@ -1076,7 +1076,7 @@
                 <TextRun>
                   <Value>=Fields!nroTicket.Value</Value>
                   <Style>
-                    <FontSize>9pt</FontSize>
+                    <FontSize>8pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1086,10 +1086,10 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>nroTicket</rd:DefaultName>
-          <Top>5.42618cm</Top>
-          <Left>4.16174cm</Left>
+          <Top>5.35563cm</Top>
+          <Left>3.51372cm</Left>
           <Height>0.6cm</Height>
-          <Width>2.60306cm</Width>
+          <Width>2.9179cm</Width>
           <ZIndex>9</ZIndex>
           <Style>
             <Border>
@@ -1110,7 +1110,7 @@
                 <TextRun>
                   <Value>TIQUE FACTURA "A"  NRO.</Value>
                   <Style>
-                    <FontSize>9pt</FontSize>
+                    <FontSize>8pt</FontSize>
                     <FontWeight>Normal</FontWeight>
                   </Style>
                 </TextRun>
@@ -1122,7 +1122,7 @@
           <Top>5.42618cm</Top>
           <Left>0.11084cm</Left>
           <Height>0.6cm</Height>
-          <Width>4.73882cm</Width>
+          <Width>3.94507cm</Width>
           <ZIndex>10</ZIndex>
           <Style>
             <Border>
