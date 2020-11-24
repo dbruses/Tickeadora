@@ -303,6 +303,7 @@
     <EmbeddedResource Include="Reportes\ViaFloraB.rdlc" />
     <EmbeddedResource Include="Reportes\ViandaB.rdlc" />
     <EmbeddedResource Include="Reportes\VictomA.rdlc" />
+    <EmbeddedResource Include="Reportes\VipA.rdlc" />
     <EmbeddedResource Include="Reportes\VissaniA.rdlc" />
     <EmbeddedResource Include="Reportes\WarnesA.rdlc" />
     <EmbeddedResource Include="Reportes\XiujuanA.rdlc" />
