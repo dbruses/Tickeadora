@@ -915,7 +915,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>MANUEL MONTES DE OCA 729 Piso:7 Dpto:G</Value>
+                  <Value>FRANKLIN BENJAMIN 1274</Value>
                   <Style>
                     <FontFamily>Times New Roman</FontFamily>
                     <FontSize>8pt</FontSize>
@@ -926,7 +926,7 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox11</rd:DefaultName>
-          <Top>6.09245cm</Top>
+          <Top>6.05717cm</Top>
           <Left>5.07683cm</Left>
           <Height>0.6cm</Height>
           <Width>8.85cm</Width>
@@ -948,7 +948,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>1270 - C.A.B.A.</Value>
+                  <Value>1602 - FLORIDA</Value>
                   <Style>
                     <FontFamily>Times New Roman</FontFamily>
                     <FontSize>8pt</FontSize>
@@ -981,7 +981,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>C.A.B.A.</Value>
+                  <Value>BUENOS AIRES</Value>
                   <Style>
                     <FontFamily>Times New Roman</FontFamily>
                     <FontSize>8pt</FontSize>
@@ -992,7 +992,7 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox11</rd:DefaultName>
-          <Top>6.79828cm</Top>
+          <Top>6.76301cm</Top>
           <Left>5.07683cm</Left>
           <Height>0.6cm</Height>
           <Width>8.85cm</Width>

@@ -166,6 +166,7 @@
     <EmbeddedResource Include="Reportes\BouvetA.rdlc" />
     <EmbeddedResource Include="Reportes\BoyacaA.rdlc" />
     <EmbeddedResource Include="Reportes\BoyacaB.rdlc" />
+    <EmbeddedResource Include="Reportes\BoyacaBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\CamiA.rdlc" />
     <EmbeddedResource Include="Reportes\CamicoA.rdlc" />
     <EmbeddedResource Include="Reportes\CentroElecA.rdlc" />
@@ -195,6 +196,7 @@
     <EmbeddedResource Include="Reportes\ExtraPowerA.rdlc" />
     <EmbeddedResource Include="Reportes\ExtraPowerACheque.rdlc" />
     <EmbeddedResource Include="Reportes\ExtraPowerB.rdlc" />
+    <EmbeddedResource Include="Reportes\ExtraPowerBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\FabincoB.rdlc" />
     <EmbeddedResource Include="Reportes\FarSanJoseA.rdlc" />
     <EmbeddedResource Include="Reportes\FarSanJoseB.rdlc" />
@@ -222,6 +224,7 @@
     <EmbeddedResource Include="Reportes\LangoneA - Cheque.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneA.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneB.rdlc" />
+    <EmbeddedResource Include="Reportes\LangoneBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\LaNueva.rdlc" />
     <EmbeddedResource Include="Reportes\LaPlazaCHA.rdlc" />
     <EmbeddedResource Include="Reportes\LaRiberaCbaA.rdlc" />
@@ -238,6 +241,7 @@
     <EmbeddedResource Include="Reportes\LimaA.rdlc" />
     <EmbeddedResource Include="Reportes\LimaAOriginal.rdlc" />
     <EmbeddedResource Include="Reportes\LimaB.rdlc" />
+    <EmbeddedResource Include="Reportes\LimaBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\LinA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrishopA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrisolA.rdlc" />
