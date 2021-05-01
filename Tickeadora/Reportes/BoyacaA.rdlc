@@ -1095,6 +1095,7 @@
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
+                  <Format>"0.00"</Format>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1126,7 +1127,7 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>=Fields!precioNeto.Value</Value>
+                <Value>=Fields!subTotal.Value</Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
