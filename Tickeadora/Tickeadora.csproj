@@ -148,6 +148,7 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Reportes\AcaOnceA.rdlc" />
+    <EmbeddedResource Include="Reportes\AcaOnceAQR.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOnceB.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOronoA.rdlc" />
     <EmbeddedResource Include="Reportes\AcenafA.rdlc" />
@@ -169,6 +170,7 @@
     <EmbeddedResource Include="Reportes\BoyacaBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\CamiA.rdlc" />
     <EmbeddedResource Include="Reportes\CamicoA.rdlc" />
+    <EmbeddedResource Include="Reportes\CaseRossiA.rdlc" />
     <EmbeddedResource Include="Reportes\CentroElecA.rdlc" />
     <EmbeddedResource Include="Reportes\ClauA.rdlc" />
     <EmbeddedResource Include="Reportes\CombVictoriaA.rdlc" />
@@ -220,6 +222,7 @@
     <EmbeddedResource Include="Reportes\LaBlancaA.rdlc" />
     <EmbeddedResource Include="Reportes\LaContinentalA.rdlc" />
     <EmbeddedResource Include="Reportes\LaCubanaA.rdlc" />
+    <EmbeddedResource Include="Reportes\LaderA.rdlc" />
     <EmbeddedResource Include="Reportes\LaGasolineraA.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneA - Cheque.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneA.rdlc" />
@@ -240,6 +243,7 @@
     <EmbeddedResource Include="Reportes\LibLevalleBConsFin.rdlc" />
     <EmbeddedResource Include="Reportes\LimaA.rdlc" />
     <EmbeddedResource Include="Reportes\LimaAOriginal.rdlc" />
+    <EmbeddedResource Include="Reportes\LimaAQR.rdlc" />
     <EmbeddedResource Include="Reportes\LimaB.rdlc" />
     <EmbeddedResource Include="Reportes\LimaBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\LinA.rdlc" />
