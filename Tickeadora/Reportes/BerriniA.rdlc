@@ -9,10 +9,10 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>                  Estacion Lima S.A.</Value>
+                <Value>             CASA BERRINI</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -20,9 +20,9 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>0.29903cm</Top>
+        <Top>0.25493cm</Top>
         <Left>0.03528cm</Left>
-        <Height>0.46771cm</Height>
+        <Height>0.54709cm</Height>
         <Width>6.97146cm</Width>
         <Style>
           <Border>
@@ -41,10 +41,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>C.U.I.T.: 30537679855</Value>
+                <Value>C.U.I.T. NRO.: 30-71036128-9</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -52,7 +51,7 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox2</rd:DefaultName>
-        <Top>1.64042cm</Top>
+        <Top>1.53431cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.52062cm</Height>
         <Width>6.97146cm</Width>
@@ -74,10 +73,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Ing. Brutos: 1082139-02</Value>
+                <Value>ING. BRUTOS: 971-640122-1</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -85,7 +83,7 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox3</rd:DefaultName>
-        <Top>2.16104cm</Top>
+        <Top>2.05493cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.47625cm</Height>
         <Width>6.97146cm</Width>
@@ -107,10 +105,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>LIMA 835/79</Value>
+                <Value>ESPAÑA 2350</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -118,77 +115,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox4</rd:DefaultName>
-        <Top>2.6373cm</Top>
+        <Top>2.56646cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.45889cm</Height>
         <Width>6.97146cm</Width>
         <ZIndex>3</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox6">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>ESTACION LIMA S.A.</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>9pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox6</rd:DefaultName>
-        <Top>1.21681cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.49417cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>4</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox5">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Inicio de Actividades: 01/08/02 </Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox5</rd:DefaultName>
-        <Top>4.34937cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.52063cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>5</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -206,9 +137,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>------------------------------------------------------</Value>
+                <Value>----------------------------------------</Value>
                 <Style>
-                  <FontSize>9pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -216,11 +147,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>5.61138cm</Top>
+        <Top>4.3943cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>6</ZIndex>
+        <ZIndex>4</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -238,17 +169,15 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>  Nª </Value>
+                <Value>NUM. </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!nroTicket.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -256,11 +185,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>nroTicket</rd:DefaultName>
-        <Top>6.35249cm</Top>
-        <Left>3.35784cm</Left>
+        <Top>4.76499cm</Top>
+        <Left>3.26729cm</Left>
         <Height>0.6cm</Height>
-        <Width>3.6489cm</Width>
-        <ZIndex>7</ZIndex>
+        <Width>3.72181cm</Width>
+        <ZIndex>5</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -278,10 +207,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Nro Estacion 10038317 - Estacion Lima</Value>
+                <Value>CASA BERRINI</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -289,44 +217,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox8</rd:DefaultName>
-        <Top>0.72264cm</Top>
+        <Top>1.04014cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.49417cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>8</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox10">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Capital Federal   Capital Federal</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox10</rd:DefaultName>
-        <Top>3.09619cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.52062cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>9</ZIndex>
+        <ZIndex>6</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -344,10 +239,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Av.Roque S. Peña 788 - C.P. 1383</Value>
+                <Value>T.E. 3464-426-694</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -355,11 +249,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox11</rd:DefaultName>
-        <Top>3.49333cm</Top>
+        <Top>3.54597cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.46771cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>10</ZIndex>
+        <ZIndex>7</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -377,10 +271,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Capital Federal</Value>
+                <Value>INICIO ACTIVIDAD: 01/12/2007</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -388,11 +281,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox10</rd:DefaultName>
-        <Top>3.96104cm</Top>
+        <Top>3.02535cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.52062cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>11</ZIndex>
+        <ZIndex>8</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -412,8 +305,7 @@
               <TextRun>
                 <Value>IVA RESPONSABLE INSCRIPTO</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -421,77 +313,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox13</rd:DefaultName>
-        <Top>4.87cm</Top>
+        <Top>4.04896cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.45889cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>12</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox14">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Vendedor: 0017</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox14</rd:DefaultName>
-        <Top>5.19659cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>13</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox15">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>                   ORIGINAL</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>5.97298cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.54709cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>14</ZIndex>
+        <ZIndex>9</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -509,11 +335,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>TIQUE FACTURA "A"</Value>
+                <Value>TIQUE FACTURA A</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                  <FontWeight>Bold</FontWeight>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -521,11 +345,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox16</rd:DefaultName>
-        <Top>6.35249cm</Top>
+        <Top>4.76499cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
-        <Width>3.53188cm</Width>
-        <ZIndex>15</ZIndex>
+        <Width>3.05562cm</Width>
+        <ZIndex>10</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -543,17 +367,15 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Fecha: </Value>
+                <Value>FECHA: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!fecha.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -561,11 +383,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox17</rd:DefaultName>
-        <Top>6.82931cm</Top>
-        <Left>0.03528cm</Left>
+        <Top>5.36499cm</Top>
+        <Left>3.26729cm</Left>
         <Height>0.54708cm</Height>
         <Width>3.05562cm</Width>
-        <ZIndex>16</ZIndex>
+        <ZIndex>11</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -583,17 +405,15 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Hora: </Value>
+                <Value>HORA: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!hora.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -601,43 +421,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox18</rd:DefaultName>
-        <Top>6.86459cm</Top>
-        <Left>3.04034cm</Left>
+        <Top>5.91207cm</Top>
+        <Left>3.26729cm</Left>
         <Height>0.5118cm</Height>
         <Width>2.5cm</Width>
-        <ZIndex>17</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox19">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>------------------------------------------------------</Value>
-                <Style>
-                  <FontSize>9pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>7.24409cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>18</ZIndex>
+        <ZIndex>12</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -655,10 +443,15 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
+                <Value>Nombre: </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
                 <Value>=Fields!cliente.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -666,11 +459,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox20</rd:DefaultName>
-        <Top>7.55277cm</Top>
+        <Top>7.18236cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>19</ZIndex>
+        <ZIndex>13</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -690,14 +483,14 @@
               <TextRun>
                 <Value>C.U.I.T: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
+                  <FontFamily>Ticketing</FontFamily>
                   <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!cuitCliente.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
+                  <FontFamily>Ticketing</FontFamily>
                   <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
@@ -706,11 +499,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox21</rd:DefaultName>
-        <Top>8.02048cm</Top>
+        <Top>7.78236cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.54708cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>20</ZIndex>
+        <ZIndex>14</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -730,8 +523,7 @@
               <TextRun>
                 <Value>IVA RESPONSABLE INSCRIPTO</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -739,43 +531,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox13</rd:DefaultName>
-        <Top>8.43556cm</Top>
+        <Top>8.4cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.56472cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>21</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox23">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>------------------------------------------------------</Value>
-                <Style>
-                  <FontSize>9pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>8.74395cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>22</ZIndex>
+        <ZIndex>15</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -793,10 +553,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CANTIDAD/PRECIO UNIT.   (%IVA)</Value>
+                <Value>CANTIDAD/PRECIO UNIT  (%IVA)</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -804,11 +563,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox7</rd:DefaultName>
-        <Top>9.20313cm</Top>
+        <Top>10.60568cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.54708cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>23</ZIndex>
+        <ZIndex>16</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -826,10 +585,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>DESCRIPCION         (%B.I.)    PRECIO NETO</Value>
+                <Value>DESCRIPCION           (%B.I.) IMPORTE</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -837,11 +595,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox24</rd:DefaultName>
-        <Top>9.72375cm</Top>
+        <Top>11.15276cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>24</ZIndex>
+        <ZIndex>17</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -859,45 +617,39 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>=Fields!precioUnitario.Value</Value>
+                <Value>=Fields!cantidad.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value> / </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>=Fields!cantidad.Value</Value>
+                <Value>=Fields!precioUnitario.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>        (</Value>
+                <Value>  (</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!pctgIVA.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>%)</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -905,44 +657,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox25</rd:DefaultName>
-        <Top>10.16528cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.52062cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>25</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox26">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>BI Rg 2074 x Lt. 0,0059</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox26</rd:DefaultName>
-        <Top>10.50014cm</Top>
+        <Top>12.24449cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>26</ZIndex>
+        <ZIndex>18</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -962,15 +681,13 @@
               <TextRun>
                 <Value>=Fields!detalle.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>             [74,90]       </Value>
+                <Value xml:space="preserve">   </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -978,11 +695,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox27</rd:DefaultName>
-        <Top>10.9684cm</Top>
+        <Top>12.9175cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.52063cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>27</ZIndex>
+        <ZIndex>19</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1002,8 +719,7 @@
               <TextRun>
                 <Value>NETO SIN IVA     </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1011,11 +727,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox29</rd:DefaultName>
-        <Top>11.48903cm</Top>
+        <Top>13.47341cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>28</ZIndex>
+        <ZIndex>20</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1033,7 +749,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>IVA  21,00%                         </Value>
+                <Value>IVA  21,00%        </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">            </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -1044,11 +766,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox28</rd:DefaultName>
-        <Top>11.94745cm</Top>
+        <Top>13.93183cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>29</ZIndex>
+        <ZIndex>21</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1066,7 +788,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CONCEPTOS NO GRAVADOS     </Value>
+                <Value>CONCEPTOS NO GRAVADOS  </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">   </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -1077,11 +805,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox30</rd:DefaultName>
-        <Top>12.54745cm</Top>
+        <Top>14.53183cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.49417cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>30</ZIndex>
+        <ZIndex>22</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1099,10 +827,10 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>TOTAL         $             </Value>
+                <Value>TOTAL             </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>11pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1110,11 +838,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox31</rd:DefaultName>
-        <Top>13.23593cm</Top>
-        <Left>0.10583cm</Left>
+        <Top>15.3526cm</Top>
+        <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
-        <Width>4.33035cm</Width>
-        <ZIndex>31</ZIndex>
+        <Width>3.05562cm</Width>
+        <ZIndex>23</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1132,22 +860,23 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Recibi(Mos)</Value>
+                <Value>DISTRIBUIDORA MAYORISTA</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox32</rd:DefaultName>
-        <Top>13.8712cm</Top>
+        <Top>18.48378cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>32</ZIndex>
+        <ZIndex>24</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1165,9 +894,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Efectivo                             $   </Value>
+                <Value>CONTADO   </Value>
                 <Style>
-                  <FontSize>9pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1175,10 +904,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox33</rd:DefaultName>
-        <Top>14.29453cm</Top>
+        <Top>16.26156cm</Top>
+        <Left>0cm</Left>
         <Height>0.6cm</Height>
         <Width>4.43618cm</Width>
-        <ZIndex>33</ZIndex>
+        <ZIndex>25</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1196,121 +926,23 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CAMBIO          $                         0.00</Value>
+                <Value>CASABERRINI@BERRINI.COM</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>11pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style />
+            <Style>
+              <TextAlign>Center</TextAlign>
+            </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox31</rd:DefaultName>
-        <Top>14.66495cm</Top>
+        <Top>19.18961cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>34</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox35">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>CABA-Defensa y Protec.Consum. TE Gratis:147</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox35</rd:DefaultName>
-        <Top>15.26495cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>35</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox36">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Los cambios se efectuan en los mismos</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox36</rd:DefaultName>
-        <Top>15.66238cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>36</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox37">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>dias y horarios de venta al publico</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox37</rd:DefaultName>
-        <Top>16.14745cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>37</ZIndex>
+        <ZIndex>26</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1328,10 +960,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>WW4010828                    V: 01.00   </Value>
+                <Value>V: 22.00  DEMETER</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1339,11 +970,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox38</rd:DefaultName>
-        <Top>21.18405cm</Top>
+        <Top>20.54905cm</Top>
         <Left>1.6196cm</Left>
         <Height>0.6cm</Height>
         <Width>5.38714cm</Width>
-        <ZIndex>38</ZIndex>
+        <ZIndex>27</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1363,8 +994,7 @@
               <TextRun>
                 <Value>=Fields!precioNeto.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1374,11 +1004,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
-        <Top>10.9684cm</Top>
+        <Top>12.87349cm</Top>
         <Left>4.50674cm</Left>
         <Height>0.49389cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>39</ZIndex>
+        <ZIndex>28</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1398,8 +1028,7 @@
               <TextRun>
                 <Value>=Fields!precioNeto.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1409,11 +1038,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
-        <Top>11.41828cm</Top>
+        <Top>13.40266cm</Top>
         <Left>4.50674cm</Left>
         <Height>0.49389cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>40</ZIndex>
+        <ZIndex>29</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1433,8 +1062,7 @@
               <TextRun>
                 <Value>=Fields!montoIVA.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1444,11 +1072,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
-        <Top>11.91217cm</Top>
+        <Top>13.89655cm</Top>
         <Left>4.50674cm</Left>
         <Height>0.49417cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>41</ZIndex>
+        <ZIndex>30</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1466,10 +1094,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>=Fields!noGravado.Value</Value>
+                <Value>0.00</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1479,11 +1106,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
-        <Top>12.58273cm</Top>
+        <Top>14.56711cm</Top>
         <Left>4.50674cm</Left>
         <Height>0.45889cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>42</ZIndex>
+        <ZIndex>31</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1501,10 +1128,17 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
+                <Value>$ </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>11pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1514,11 +1148,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox31</rd:DefaultName>
-        <Top>13.23593cm</Top>
-        <Left>3.61597cm</Left>
+        <Top>15.3526cm</Top>
+        <Left>2.93688cm</Left>
         <Height>0.6cm</Height>
-        <Width>2.46472cm</Width>
-        <ZIndex>43</ZIndex>
+        <Width>3.07326cm</Width>
+        <ZIndex>32</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1538,8 +1172,7 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1549,11 +1182,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
-        <Top>14.29453cm</Top>
+        <Top>16.26156cm</Top>
         <Left>4.50674cm</Left>
         <Height>0.6cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>44</ZIndex>
+        <ZIndex>33</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1564,21 +1197,6 @@
           <PaddingBottom>2pt</PaddingBottom>
         </Style>
       </Textbox>
-      <Image Name="QR">
-        <Source>Embedded</Source>
-        <Value>QR1</Value>
-        <Sizing>Fit</Sizing>
-        <Top>16.9869cm</Top>
-        <Left>1.40534cm</Left>
-        <Height>3.5cm</Height>
-        <Width>3.5cm</Width>
-        <ZIndex>45</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-        </Style>
-      </Image>
       <Textbox Name="Textbox39">
         <CanGrow>true</CanGrow>
         <KeepTogether>true</KeepTogether>
@@ -1601,11 +1219,341 @@ DGI</Value>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox11</rd:DefaultName>
-        <Top>21.18405cm</Top>
+        <Top>20.54905cm</Top>
         <Left>0.29259cm</Left>
         <Height>1.04979cm</Height>
         <Width>1.15062cm</Width>
-        <ZIndex>46</ZIndex>
+        <ZIndex>34</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox19">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>----------------------------------------</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox9</rd:DefaultName>
+        <Top>6.58236cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.6cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>35</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox44">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Domicilio: </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>=Fields!direccionCliente.Value</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox21</rd:DefaultName>
+        <Top>8.99118cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.54708cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>36</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox47">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>----------------------------------------</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox9</rd:DefaultName>
+        <Top>9.9704cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.6cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>37</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox23">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>----------------------------------------</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox9</rd:DefaultName>
+        <Top>11.60921cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.6cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>38</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox54">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>.</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox38</rd:DefaultName>
+        <Top>22.1308cm</Top>
+        <Left>1.60196cm</Left>
+        <Height>0.6cm</Height>
+        <Width>5.38714cm</Width>
+        <ZIndex>39</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox35">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>SUMA DE SUS PAGOS   </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox33</rd:DefaultName>
+        <Top>16.86156cm</Top>
+        <Left>0cm</Left>
+        <Height>0.6cm</Height>
+        <Width>4.43618cm</Width>
+        <ZIndex>40</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox48">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Fields!total.Value</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox40</rd:DefaultName>
+        <Top>16.86156cm</Top>
+        <Left>4.50674cm</Left>
+        <Height>0.6cm</Height>
+        <Width>1.57396cm</Width>
+        <ZIndex>41</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox36">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>SU VUELTO   </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox33</rd:DefaultName>
+        <Top>17.46156cm</Top>
+        <Height>0.6cm</Height>
+        <Width>4.43618cm</Width>
+        <ZIndex>42</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox49">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>0.00</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style>
+              <TextAlign>Right</TextAlign>
+            </Style>
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox40</rd:DefaultName>
+        <Top>17.46156cm</Top>
+        <Left>4.50674cm</Left>
+        <Height>0.6cm</Height>
+        <Width>1.57396cm</Width>
+        <ZIndex>43</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox50">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>REGISTRO NRO.:  HP0CE87291</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox38</rd:DefaultName>
+        <Top>20.99884cm</Top>
+        <Left>1.6196cm</Left>
+        <Height>0.6cm</Height>
+        <Width>5.38714cm</Width>
+        <ZIndex>44</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1617,7 +1565,7 @@ DGI</Value>
         </Style>
       </Textbox>
     </ReportItems>
-    <Height>8.9433in</Height>
+    <Height>9.09497in</Height>
     <Style />
   </Body>
   <Width>4.13231in</Width>

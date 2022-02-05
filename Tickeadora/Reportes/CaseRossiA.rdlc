@@ -846,7 +846,6 @@
         </Paragraphs>
         <rd:DefaultName>Textbox32</rd:DefaultName>
         <Top>18.1751cm</Top>
-        <Left>0cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
         <ZIndex>23</ZIndex>
@@ -1134,7 +1133,7 @@
         <Value>QR1</Value>
         <Sizing>Fit</Sizing>
         <Top>25.2419cm</Top>
-        <Left>2.04034cm</Left>
+        <Left>1.40534cm</Left>
         <Height>3.5cm</Height>
         <Width>3.5cm</Width>
         <ZIndex>32</ZIndex>

@@ -9,10 +9,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>                  Estacion Lima S.A.</Value>
+                <Value>EST. DE SERV. YPF COMERCIAL DIEGO S R L</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -20,7 +19,7 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>0.29903cm</Top>
+        <Top>0.25493cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.46771cm</Height>
         <Width>6.97146cm</Width>
@@ -41,10 +40,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>C.U.I.T.: 30537679855</Value>
+                <Value>C.U.I.T. Nro: 30-54010934-2</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -74,10 +72,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Ing. Brutos: 1082139-02</Value>
+                <Value>IB: 921-751663-1</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -85,44 +82,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox3</rd:DefaultName>
-        <Top>2.16104cm</Top>
+        <Top>2.12577cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.47625cm</Height>
         <Width>6.97146cm</Width>
         <ZIndex>2</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox4">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>LIMA 835/79</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox4</rd:DefaultName>
-        <Top>2.6373cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.45889cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>3</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -140,10 +104,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>ESTACION LIMA S.A.</Value>
+                <Value>COMERCIAL DIEGO S R L</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>9pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -151,11 +114,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox6</rd:DefaultName>
-        <Top>1.21681cm</Top>
+        <Top>0.89931cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.49417cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>4</ZIndex>
+        <ZIndex>3</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -173,10 +136,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Inicio de Actividades: 01/08/02 </Value>
+                <Value>INICIO DE ACTIVIDADES: 01/01/1986</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -184,53 +146,36 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox5</rd:DefaultName>
-        <Top>4.34937cm</Top>
+        <Top>3.09619cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.52063cm</Height>
         <Width>6.97146cm</Width>
+        <ZIndex>4</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Image Name="logo">
+        <Source>Embedded</Source>
+        <Value>logo</Value>
+        <Sizing>FitProportional</Sizing>
+        <Top>16.28884cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>1.15604cm</Height>
+        <Width>8.06272cm</Width>
         <ZIndex>5</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
           </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
         </Style>
-      </Textbox>
-      <Textbox Name="Textbox9">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>------------------------------------------------------</Value>
-                <Style>
-                  <FontSize>9pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>5.61138cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>6</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
+      </Image>
       <Textbox Name="nroTicket">
         <CanGrow>true</CanGrow>
         <KeepTogether>true</KeepTogether>
@@ -238,17 +183,22 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>  Nª </Value>
+                <Value xml:space="preserve">  </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
               <TextRun>
+                <Value>Nª </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
                 <Value>=Fields!nroTicket.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -256,143 +206,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>nroTicket</rd:DefaultName>
-        <Top>6.35249cm</Top>
-        <Left>3.35784cm</Left>
+        <Top>5.00311cm</Top>
+        <Left>3.52778cm</Left>
         <Height>0.6cm</Height>
-        <Width>3.6489cm</Width>
-        <ZIndex>7</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox8">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Nro Estacion 10038317 - Estacion Lima</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox8</rd:DefaultName>
-        <Top>0.72264cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.49417cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>8</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox10">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Capital Federal   Capital Federal</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox10</rd:DefaultName>
-        <Top>3.09619cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.52062cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>9</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox11">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Av.Roque S. Peña 788 - C.P. 1383</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox11</rd:DefaultName>
-        <Top>3.49333cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.46771cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>10</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox12">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>Capital Federal</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox10</rd:DefaultName>
-        <Top>3.96104cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.52062cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>11</ZIndex>
+        <Width>3.44368cm</Width>
+        <ZIndex>6</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -412,8 +230,7 @@
               <TextRun>
                 <Value>IVA RESPONSABLE INSCRIPTO</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -421,11 +238,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox13</rd:DefaultName>
-        <Top>4.87cm</Top>
+        <Top>3.6521cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.45889cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>12</ZIndex>
+        <ZIndex>7</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -443,10 +260,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Vendedor: 0017</Value>
+                <Value>PE:9438   TN:  2     V: 08</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -454,44 +270,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox14</rd:DefaultName>
-        <Top>5.19659cm</Top>
+        <Top>4.11099cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>13</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox15">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>                   ORIGINAL</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>5.97298cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.54709cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>14</ZIndex>
+        <ZIndex>8</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -511,8 +294,7 @@
               <TextRun>
                 <Value>TIQUE FACTURA "A"</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -521,11 +303,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox16</rd:DefaultName>
-        <Top>6.35249cm</Top>
+        <Top>5.00311cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>3.53188cm</Width>
-        <ZIndex>15</ZIndex>
+        <ZIndex>9</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -545,15 +327,13 @@
               <TextRun>
                 <Value>Fecha: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!fecha.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -561,11 +341,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox17</rd:DefaultName>
-        <Top>6.82931cm</Top>
-        <Left>0.03528cm</Left>
+        <Top>5.60311cm</Top>
+        <Left>3.52778cm</Left>
         <Height>0.54708cm</Height>
         <Width>3.05562cm</Width>
-        <ZIndex>16</ZIndex>
+        <ZIndex>10</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -585,15 +365,13 @@
               <TextRun>
                 <Value>Hora: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!hora.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -601,43 +379,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox18</rd:DefaultName>
-        <Top>6.86459cm</Top>
-        <Left>3.04034cm</Left>
+        <Top>6.22075cm</Top>
+        <Left>3.52778cm</Left>
         <Height>0.5118cm</Height>
         <Width>2.5cm</Width>
-        <ZIndex>17</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox19">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>------------------------------------------------------</Value>
-                <Style>
-                  <FontSize>9pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox9</rd:DefaultName>
-        <Top>7.24409cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>18</ZIndex>
+        <ZIndex>11</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -657,8 +403,7 @@
               <TextRun>
                 <Value>=Fields!cliente.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -666,11 +411,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox20</rd:DefaultName>
-        <Top>7.55277cm</Top>
-        <Left>0.03528cm</Left>
+        <Top>7.24409cm</Top>
+        <Left>0.10583cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>19</ZIndex>
+        <ZIndex>12</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -690,15 +435,13 @@
               <TextRun>
                 <Value>C.U.I.T: </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!cuitCliente.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -706,11 +449,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox21</rd:DefaultName>
-        <Top>8.02048cm</Top>
+        <Top>7.81792cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.54708cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>20</ZIndex>
+        <ZIndex>13</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -730,8 +473,7 @@
               <TextRun>
                 <Value>IVA RESPONSABLE INSCRIPTO</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -743,7 +485,7 @@
         <Left>0.03528cm</Left>
         <Height>0.56472cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>21</ZIndex>
+        <ZIndex>14</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -761,9 +503,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>------------------------------------------------------</Value>
+                <Value>-------------------------------</Value>
                 <Style>
-                  <FontSize>9pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -775,7 +517,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>22</ZIndex>
+        <ZIndex>15</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -793,7 +535,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CANTIDAD/PRECIO UNIT.   (%IVA)</Value>
+                <Value>Cant./Precio Unit. </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve"> </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -808,7 +556,7 @@
         <Left>0.03528cm</Left>
         <Height>0.54708cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>23</ZIndex>
+        <ZIndex>16</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -826,10 +574,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>DESCRIPCION         (%B.I.)    PRECIO NETO</Value>
+                <Value>Descripcion     (%I.V.A..)     IMPORTE</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -841,7 +588,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>24</ZIndex>
+        <ZIndex>17</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -859,45 +606,39 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>=Fields!precioUnitario.Value</Value>
+                <Value>=Fields!cantidad.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value> / </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>=Fields!cantidad.Value</Value>
+                <Value>=Fields!precioUnitario.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>        (</Value>
+                <Value xml:space="preserve"> </Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>=Fields!pctgIVA.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
                 <Value>%)</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -909,40 +650,7 @@
         <Left>0.03528cm</Left>
         <Height>0.52062cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>25</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox26">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>BI Rg 2074 x Lt. 0,0059</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox26</rd:DefaultName>
-        <Top>10.50014cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>26</ZIndex>
+        <ZIndex>18</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -962,12 +670,11 @@
               <TextRun>
                 <Value>=Fields!detalle.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
               <TextRun>
-                <Value>             [74,90]       </Value>
+                <Value xml:space="preserve">                   </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -978,11 +685,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox27</rd:DefaultName>
-        <Top>10.9684cm</Top>
+        <Top>10.94166cm</Top>
         <Left>0.03528cm</Left>
         <Height>0.52063cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>27</ZIndex>
+        <ZIndex>19</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1000,7 +707,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>NETO SIN IVA     </Value>
+                <Value>NETO  </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">  </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -1015,7 +728,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>28</ZIndex>
+        <ZIndex>20</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1033,7 +746,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>IVA  21,00%                         </Value>
+                <Value>IVA  21,00% </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">                        </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -1048,7 +767,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>29</ZIndex>
+        <ZIndex>21</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1066,7 +785,13 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CONCEPTOS NO GRAVADOS     </Value>
+                <Value>CONCEPTOS NO GRAVADOS  </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">   </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>8pt</FontSize>
@@ -1081,7 +806,7 @@
         <Left>0.03528cm</Left>
         <Height>0.49417cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>30</ZIndex>
+        <ZIndex>22</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1099,7 +824,14 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>TOTAL         $             </Value>
+                <Value>TOTAL         $ </Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value xml:space="preserve">            </Value>
                 <Style>
                   <FontFamily>Times New Roman</FontFamily>
                   <FontSize>11pt</FontSize>
@@ -1114,7 +846,7 @@
         <Left>0.10583cm</Left>
         <Height>0.6cm</Height>
         <Width>4.33035cm</Width>
-        <ZIndex>31</ZIndex>
+        <ZIndex>23</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1132,10 +864,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Recibi(Mos)</Value>
+                <Value>RECIBI(MOS)</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1147,7 +878,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>32</ZIndex>
+        <ZIndex>24</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1165,9 +896,10 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Efectivo                             $   </Value>
+                <Value>EFECTIVO     $   </Value>
                 <Style>
-                  <FontSize>9pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1178,7 +910,7 @@
         <Top>14.29453cm</Top>
         <Height>0.6cm</Height>
         <Width>4.43618cm</Width>
-        <ZIndex>33</ZIndex>
+        <ZIndex>25</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1196,10 +928,10 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CAMBIO          $                         0.00</Value>
+                <Value>CAMBIO      $              0.00</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>11pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1211,40 +943,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>34</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox35">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>CABA-Defensa y Protec.Consum. TE Gratis:147</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox35</rd:DefaultName>
-        <Top>15.26495cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>35</ZIndex>
+        <ZIndex>26</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1262,10 +961,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Los cambios se efectuan en los mismos</Value>
+                <Value>vta. combust. por cta. y orden de ypf</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1277,40 +975,7 @@
         <Left>0.03528cm</Left>
         <Height>0.6cm</Height>
         <Width>6.97146cm</Width>
-        <ZIndex>36</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
-        </Style>
-      </Textbox>
-      <Textbox Name="Textbox37">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>dias y horarios de venta al publico</Value>
-                <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style />
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox37</rd:DefaultName>
-        <Top>16.14745cm</Top>
-        <Left>0.03528cm</Left>
-        <Height>0.6cm</Height>
-        <Width>6.97146cm</Width>
-        <ZIndex>37</ZIndex>
+        <ZIndex>27</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1328,10 +993,20 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>WW4010828                    V: 01.00   </Value>
+                <Value>V: 22.01      Demater</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>REGISTRO Nro. PE01085036</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1339,11 +1014,11 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox38</rd:DefaultName>
-        <Top>21.18405cm</Top>
+        <Top>16.26238cm</Top>
         <Left>1.6196cm</Left>
-        <Height>0.6cm</Height>
+        <Height>1.1825cm</Height>
         <Width>5.38714cm</Width>
-        <ZIndex>38</ZIndex>
+        <ZIndex>28</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1363,8 +1038,8 @@
               <TextRun>
                 <Value>=Fields!precioNeto.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <Format>"0.00"</Format>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1378,7 +1053,7 @@
         <Left>4.50674cm</Left>
         <Height>0.49389cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>39</ZIndex>
+        <ZIndex>29</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1396,10 +1071,9 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>=Fields!precioNeto.Value</Value>
+                <Value>=Fields!subTotal.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1413,7 +1087,7 @@
         <Left>4.50674cm</Left>
         <Height>0.49389cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>40</ZIndex>
+        <ZIndex>30</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1433,8 +1107,7 @@
               <TextRun>
                 <Value>=Fields!montoIVA.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1448,7 +1121,7 @@
         <Left>4.50674cm</Left>
         <Height>0.49417cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>41</ZIndex>
+        <ZIndex>31</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1468,8 +1141,7 @@
               <TextRun>
                 <Value>=Fields!noGravado.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1483,7 +1155,7 @@
         <Left>4.50674cm</Left>
         <Height>0.45889cm</Height>
         <Width>1.57396cm</Width>
-        <ZIndex>42</ZIndex>
+        <ZIndex>32</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1503,8 +1175,8 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>11pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1515,10 +1187,10 @@
         </Paragraphs>
         <rd:DefaultName>Textbox31</rd:DefaultName>
         <Top>13.23593cm</Top>
-        <Left>3.61597cm</Left>
+        <Left>3.52778cm</Left>
         <Height>0.6cm</Height>
-        <Width>2.46472cm</Width>
-        <ZIndex>43</ZIndex>
+        <Width>2.55291cm</Width>
+        <ZIndex>33</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1538,8 +1210,8 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Times New Roman</FontFamily>
-                  <FontSize>8pt</FontSize>
+                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>12pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -1550,10 +1222,10 @@
         </Paragraphs>
         <rd:DefaultName>Textbox40</rd:DefaultName>
         <Top>14.29453cm</Top>
-        <Left>4.50674cm</Left>
+        <Left>3.52778cm</Left>
         <Height>0.6cm</Height>
-        <Width>1.57396cm</Width>
-        <ZIndex>44</ZIndex>
+        <Width>2.55292cm</Width>
+        <ZIndex>34</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1564,48 +1236,92 @@
           <PaddingBottom>2pt</PaddingBottom>
         </Style>
       </Textbox>
-      <Image Name="QR">
-        <Source>Embedded</Source>
-        <Value>QR1</Value>
-        <Sizing>Fit</Sizing>
-        <Top>16.9869cm</Top>
-        <Left>1.40534cm</Left>
-        <Height>3.5cm</Height>
-        <Width>3.5cm</Width>
-        <ZIndex>45</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-        </Style>
-      </Image>
-      <Textbox Name="Textbox39">
+      <Textbox Name="Textbox8">
         <CanGrow>true</CanGrow>
         <KeepTogether>true</KeepTogether>
         <Paragraphs>
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>CF
-DGI</Value>
+                <Value>J B JUSTO 120 - 6100 - RUFINO - STA FE</Value>
                 <Style>
-                  <FontStyle>Italic</FontStyle>
                   <FontFamily>Ticketing</FontFamily>
-                  <FontSize>14pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
-            <Style>
-              <TextAlign>Right</TextAlign>
-            </Style>
+            <Style />
           </Paragraph>
         </Paragraphs>
-        <rd:DefaultName>Textbox11</rd:DefaultName>
-        <Top>21.18405cm</Top>
-        <Left>0.29259cm</Left>
-        <Height>1.04979cm</Height>
-        <Width>1.15062cm</Width>
-        <ZIndex>46</ZIndex>
+        <rd:DefaultName>Textbox4</rd:DefaultName>
+        <Top>2.6373cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.45889cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>35</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox26">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>-------------------------------</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox9</rd:DefaultName>
+        <Top>6.76783cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.6cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>36</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox35">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>-------------------------------</Value>
+                <Style>
+                  <FontFamily>Ticketing</FontFamily>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox9</rd:DefaultName>
+        <Top>4.40311cm</Top>
+        <Left>0.03528cm</Left>
+        <Height>0.6cm</Height>
+        <Width>6.97146cm</Width>
+        <ZIndex>37</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1617,7 +1333,7 @@ DGI</Value>
         </Style>
       </Textbox>
     </ReportItems>
-    <Height>8.9433in</Height>
+    <Height>7.23497in</Height>
     <Style />
   </Body>
   <Width>4.13231in</Width>
@@ -1774,31 +1490,6 @@ DGI</Value>
       <MIMEType>image/png</MIMEType>
       <ImageData>iVBORw0KGgoAAAANSUhEUgAAAOcAAAAfCAYAAAAcNdpUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarY6xSsNQFEDPi6LiUCsEcXB4kygotupgxqQtRRCs1SHJ1qShSmkSXl7VfoSjWwcXd7/AyVFwUPwC/0Bx6uAQIYODCJ7p3MPlcsGo2HWnYZRhEGvVbjrS9Xw5+8QMUwDQCbPUbrUOAOIkjvjB5ysC4HnTrjsN/sZ8mCoNTIDtbpSFICpA/0KnGsQYMIN+qkHcAaY6addAPAClXu4vQCnI/Q0oKdfzQXwAZs/1fDDmADPIfQUwdXSpAWpJOlJnvVMtq5ZlSbubBJE8HmU6GmRyPw4TlSaqo6MukP8HwGK+2G46cq1qWXvr/DOu58vc3o8QgFh6LFpBOFTn3yqMnd/n4sZ4GQ5vYXpStN0ruNmAheuirVahvAX34y/Axk/96FpPYgAAACBjSFJNAAB6JQAAgIMAAPn/AACA6AAAUggAARVYAAA6lwAAF2/XWh+QAAACdElEQVR42uzbu47aQBQG4H8iHoRIhsLrJ5h5ApaGioIU6cYlaTYFotwuzbhkuy1MkYoiGj8BeQIvhceSXyTSScElkIASiUtu/yf9BXjsYqTjsYeDEhEQ0Z/nFaeAiMVJRCxOov+qOOtWkZpcKdUopRqTprkxJjebz4cxTVZjwOklukFxFunb50dMR0GkLSLtKcoRhs+jpbdt7UJb1t+/Fgkdp5PP/QifOL1EZxCRn8fbibY+lyOC02K9iAQnmzFgGOb8/NLKWSzKu+FDb3Tq+NO9guq8A+IO73ZEt3ysrcoE3ej4sbBK4EXugtPzpBu9cEqJLqN17gWqEvM+UEXj5ZsZ55Potitnf1jiPi1QAwBqFKmBSQsABVaIEQFfOJVEv2NDSELLWZ0DaADdWBcmIj62QINtrG/4Es8wl4tiby3RX/xYS0Qs
 TiI6KM46G5jv2u/SrJ4cDq1b2a59zzRplk5MWuSZYese0VU3hLzVuQvbth8vFrpxQQa7DSGtc+t3A8RbLXp3gojTNvciMV/kGeaaHUJRDw8O7VVADAAoPrz/mExHs962EyFCb7bEcrz9vP5JpQeseLsjuvA7Z1Um6J/oAtq0752+Sl2hTLqcTaLLF2cRb5oJdsIKiDvrlXC/fS8zCkqtY7L6YDARXXxDqOqWSXevsb3AohzOj/3ta7wUiHhY7fYeawH21RJdozjDKt6tfHWB1DzOMR2/bNvyusmTXmxXySOPsXVVciaJLk2CG+j9NjzoxvowOdw58rHVe2P0eoy3++etz/22w8swDNv3iP7dDSEiYnESEYuTiMVJRCxOIhYnEbE4iehHXwEAAP//AwDHp1RBZ2tzUwAAAABJRU5ErkJggg==</ImageData>
-    </EmbeddedImage>
-    <EmbeddedImage Name="QR">
-      <MIMEType>image/png</MIMEType>
-      <ImageData>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</ImageData>
-    </EmbeddedImage>
-    <EmbeddedImage Name="QR1">
-      <MIMEType>image/png</MIMEType>
-      <ImageData>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</ImageData>
     </EmbeddedImage>
   </EmbeddedImages>
   <rd:ReportUnitType>Cm</rd:ReportUnitType>
