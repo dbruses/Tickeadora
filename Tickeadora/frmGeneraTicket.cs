@@ -27,6 +27,7 @@ namespace Tickeadora
             lblRazonSocial.Text = rz;
             lblIdProv.Text = idProveedor;
             lblPtoVta.Text = ptoVta;
+            dtpHasta.Value = DateTime.Now;
 
             rdbA.Checked = true;
 

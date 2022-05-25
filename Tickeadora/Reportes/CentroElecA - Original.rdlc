@@ -26,13 +26,13 @@
                                 <TextRun>
                                   <Value>=Fields!cantidad.Value</Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                   </Style>
                                 </TextRun>
                                 <TextRun>
                                   <Value>   x</Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -62,7 +62,7 @@
                                 <TextRun>
                                   <Value>=Fields!precioUnitario.Value</Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -95,13 +95,13 @@
                                 <TextRun>
                                   <Value>=Fields!detalle.Value</Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                   </Style>
                                 </TextRun>
                                 <TextRun>
                                   <Value xml:space="preserve"> </Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -133,7 +133,7 @@
                                 <TextRun>
                                   <Value>=Fields!totalItem.Value</Value>
                                   <Style>
-                                    <FontFamily>Ticketing</FontFamily>
+                                    <FontSize>9pt</FontSize>
                                     <Format>"0.00"</Format>
                                   </Style>
                                 </TextRun>
@@ -203,7 +203,7 @@
               <TextRun>
                 <Value>SUBTOTAL  </Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -212,7 +212,6 @@
         </Paragraphs>
         <rd:DefaultName>Textbox30</rd:DefaultName>
         <Top>1.49355cm</Top>
-        <Left>0.02132cm</Left>
         <Height>0.6cm</Height>
         <Width>3.73627cm</Width>
         <ZIndex>1</ZIndex>
@@ -235,7 +234,7 @@
               <TextRun>
                 <Value>I.V.A. (21%)    </Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -267,7 +266,7 @@
               <TextRun>
                 <Value>TOTAL</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -300,7 +299,7 @@
               <TextRun>
                 <Value>RECIBI/MOS</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -332,7 +331,7 @@
               <TextRun>
                 <Value>SU PAGO</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -364,7 +363,7 @@
               <TextRun>
                 <Value>Suma de sus pagos  </Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -396,7 +395,7 @@
               <TextRun>
                 <Value>V: 10.00  ARES</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -404,8 +403,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox41</rd:DefaultName>
-        <Top>6.70806cm</Top>
-        <Left>1.41808cm</Left>
+        <Top>5.72883cm</Top>
+        <Left>0.07291cm</Left>
         <Height>0.6cm</Height>
         <Width>3.24083cm</Width>
         <ZIndex>7</ZIndex>
@@ -428,7 +427,7 @@
               <TextRun>
                 <Value>REGISTRO Nro.: PEJ0002937</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -436,8 +435,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox42</rd:DefaultName>
-        <Top>7.37862cm</Top>
-        <Left>1.41808cm</Left>
+        <Top>6.32883cm</Top>
+        <Left>0.10818cm</Left>
         <Height>0.6cm</Height>
         <Width>5.01354cm</Width>
         <ZIndex>8</ZIndex>
@@ -460,7 +459,7 @@
               <TextRun>
                 <Value>=Fields!subTotal.Value</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                   <Format>="0.##"</Format>
                 </Style>
               </TextRun>
@@ -495,7 +494,7 @@
               <TextRun>
                 <Value>=Fields!montoIVA.Value</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                   <Format>=FormatNumber(First(Fields!montoIVA.Value, "dsTicket"),2)</Format>
                 </Style>
               </TextRun>
@@ -530,7 +529,7 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>9pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                   <Format>=FormatNumber(First(Fields!total.Value, "dsTicket"),2)</Format>
                 </Style>
@@ -566,7 +565,7 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -600,7 +599,7 @@
               <TextRun>
                 <Value>=Fields!total.Value</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
+                  <FontSize>8pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -666,8 +665,6 @@
               <TextRun>
                 <Value>GRACIAS POR SU COMPRA</Value>
                 <Style>
-                  <FontFamily>Ticketing</FontFamily>
-                  <FontSize>12pt</FontSize>
                   <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
@@ -691,43 +688,21 @@
           <PaddingBottom>2pt</PaddingBottom>
         </Style>
       </Textbox>
-      <Textbox Name="Textbox39">
-        <CanGrow>true</CanGrow>
-        <KeepTogether>true</KeepTogether>
-        <Paragraphs>
-          <Paragraph>
-            <TextRuns>
-              <TextRun>
-                <Value>CF
-DGI</Value>
-                <Style>
-                  <FontStyle>Italic</FontStyle>
-                  <FontFamily>Ticketing</FontFamily>
-                  <FontSize>14pt</FontSize>
-                </Style>
-              </TextRun>
-            </TextRuns>
-            <Style>
-              <TextAlign>Right</TextAlign>
-            </Style>
-          </Paragraph>
-        </Paragraphs>
-        <rd:DefaultName>Textbox11</rd:DefaultName>
-        <Top>6.70806cm</Top>
-        <Left>0.02132cm</Left>
-        <Height>1.04979cm</Height>
-        <Width>1.15062cm</Width>
+      <Image Name="logo">
+        <Source>Embedded</Source>
+        <Value>logo1</Value>
+        <Sizing>FitProportional</Sizing>
+        <Top>6.96248cm</Top>
+        <Left>0.10818cm</Left>
+        <Height>0.89146cm</Height>
+        <Width>8.06272cm</Width>
         <ZIndex>16</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
           </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
         </Style>
-      </Textbox>
+      </Image>
     </ReportItems>
     <Height>3.34221in</Height>
     <Style />
@@ -748,13 +723,15 @@ DGI</Value>
                 <TextRun>
                   <Value>C.U.I.T. Nro.:  </Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontFamily />
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
                 <TextRun>
                   <Value>=Fields!cuit.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontFamily />
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -785,7 +762,8 @@ DGI</Value>
                 <TextRun>
                   <Value>PARAGUAY 1066 (2000) ROSARIO - SANTA FE</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontFamily />
+                    <FontSize>8pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -817,7 +795,8 @@ DGI</Value>
                 <TextRun>
                   <Value>INICIO DE ACTIVIDADES: 01/04/2011</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontFamily />
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -849,7 +828,7 @@ DGI</Value>
                 <TextRun>
                   <Value>No. T.</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -881,7 +860,7 @@ DGI</Value>
                 <TextRun>
                   <Value>IVA RESPONSABLE INSCRIPTO</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -913,13 +892,13 @@ DGI</Value>
                 <TextRun>
                   <Value>Fecha </Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
                 <TextRun>
                   <Value>=Fields!fecha.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -951,13 +930,13 @@ DGI</Value>
                 <TextRun>
                   <Value>Hora  </Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
                 <TextRun>
                   <Value>=Fields!hora.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -989,7 +968,7 @@ DGI</Value>
                 <TextRun>
                   <Value>=Fields!cliente.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1021,7 +1000,7 @@ DGI</Value>
                 <TextRun>
                   <Value>=Fields!direccionCliente.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1053,7 +1032,7 @@ DGI</Value>
                 <TextRun>
                   <Value>=Fields!cuitCliente.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1085,7 +1064,7 @@ DGI</Value>
                 <TextRun>
                   <Value>TEL: (0341) 440-9570</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>8pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1117,13 +1096,13 @@ DGI</Value>
                 <TextRun>
                   <Value>INGRESOS BRUTOS: </Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>8pt</FontSize>
                   </Style>
                 </TextRun>
                 <TextRun>
                   <Value>=Fields!ingBrutos.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>8pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1155,13 +1134,13 @@ DGI</Value>
                 <TextRun>
                   <Value>P.V. Nro.: </Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
                 <TextRun>
                   <Value>=Left(First(Fields!nroTicket.Value, "dsTicket"),4)</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1193,7 +1172,7 @@ DGI</Value>
                 <TextRun>
                   <Value>=Right(Fields!nroTicket.Value,8)</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1227,7 +1206,7 @@ DGI</Value>
                 <TextRun>
                   <Value>TIQUE FACTURA "A"</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -1259,8 +1238,7 @@ DGI</Value>
                 <TextRun>
                   <Value>=Fields!nombreFantasia.Value</Value>
                   <Style>
-                    <FontFamily>Ticketing</FontFamily>
-                    <FontSize>12pt</FontSize>
+                    <FontSize>9pt</FontSize>
                   </Style>
                 </TextRun>
               </TextRuns>

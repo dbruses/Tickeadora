@@ -163,6 +163,7 @@
     <EmbeddedResource Include="Reportes\AYFA.rdlc" />
     <EmbeddedResource Include="Reportes\AzulA.rdlc" />
     <EmbeddedResource Include="Reportes\BazarA.rdlc" />
+    <EmbeddedResource Include="Reportes\FlemingA.rdlc" />
     <EmbeddedResource Include="Reportes\BerriniA.rdlc" />
     <EmbeddedResource Include="Reportes\BignamA.rdlc" />
     <EmbeddedResource Include="Reportes\BouvetA.rdlc" />

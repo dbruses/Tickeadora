@@ -165,7 +165,7 @@
             this.dtpHasta.Name = "dtpHasta";
             this.dtpHasta.Size = new System.Drawing.Size(96, 20);
             this.dtpHasta.TabIndex = 12;
-            this.dtpHasta.Value = new System.DateTime(2020, 9, 2, 7, 42, 36, 0);
+            this.dtpHasta.Value = new System.DateTime(2022, 2, 1, 0, 0, 0, 0);
             // 
             // lblPtoVta
             // 
