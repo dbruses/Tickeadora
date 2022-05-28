@@ -153,6 +153,7 @@
     <EmbeddedResource Include="Reportes\AcaOronoA.rdlc" />
     <EmbeddedResource Include="Reportes\AcenafA.rdlc" />
     <EmbeddedResource Include="Reportes\AgropecuariosA.rdlc" />
+    <EmbeddedResource Include="Reportes\AmianoA.rdlc" />
     <EmbeddedResource Include="Reportes\AnywayA.rdlc" />
     <EmbeddedResource Include="Reportes\ARQUIMADERAA.rdlc" />
     <EmbeddedResource Include="Reportes\ARQUIMADERAR.rdlc" />
