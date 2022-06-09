@@ -12,6 +12,7 @@ using System.Data.SQLite;
 using Gma.QrCodeNet.Encoding;
 using Gma.QrCodeNet.Encoding.Windows.Render;
 using System.Drawing.Imaging;
+using Microsoft.Reporting.WinForms;
 
 namespace Tickeadora
 {
@@ -52,9 +53,12 @@ namespace Tickeadora
             if (ds.Tables[0].Rows.Count > 0)
             {
                 reportViewer1.LocalReport.EnableExternalImages = true;
-                //reportViewer1.LocalReport.
                 reportViewer1.LocalReport.DataSources.Add(new Microsoft.Reporting.WinForms.ReportDataSource("dsTicket", ds.Tables[0]));
                 reportViewer1.LocalReport.ReportPath = Path.Combine(Application.StartupPath + "\\Reportes\\", NombRep);
+
+                string ruta = Application.StartupPath + "\\Reportes\\QR.png";
+                ReportParameter param = new ReportParameter("Path", @"file:" + ruta, true);
+                reportViewer1.LocalReport.SetParameters(param);
             }
                 
         }

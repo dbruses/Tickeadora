@@ -359,6 +359,7 @@
     <Folder Include="Librerias\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\QR.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
