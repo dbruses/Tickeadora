@@ -97,6 +97,7 @@ namespace Tickeadora
             GraphicsRenderer renderer = new GraphicsRenderer(new FixedCodeSize(400, QuietZoneModules.Zero), Brushes.Black, Brushes.White);
 
             MemoryStream ms = new MemoryStream();
+
             renderer.WriteToStream(qrCode.Matrix, ImageFormat.Png, ms);
             var imageTemporal = new Bitmap(ms);
             var imagen = new Bitmap(imageTemporal, new Size(new Point(200, 200)));
