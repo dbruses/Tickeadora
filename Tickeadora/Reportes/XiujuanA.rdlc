@@ -144,7 +144,7 @@
             <Source>Embedded</Source>
             <Value>logo</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>12.72929cm</Top>
+            <Top>8.91929cm</Top>
             <Left>0.13486cm</Left>
             <Height>1.02375cm</Height>
             <Width>7.65938cm</Width>
@@ -268,7 +268,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox41</rd:DefaultName>
-            <Top>12.12929cm</Top>
+            <Top>8.31929cm</Top>
             <Left>5.41052cm</Left>
             <Height>0.6cm</Height>
             <Width>1.11332cm</Width>
@@ -300,7 +300,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox42</rd:DefaultName>
-            <Top>12.12929cm</Top>
+            <Top>8.31929cm</Top>
             <Left>0.13486cm</Left>
             <Height>0.6cm</Height>
             <Width>2.94846cm</Width>
@@ -694,7 +694,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox37</rd:DefaultName>
-            <Top>11.45874cm</Top>
+            <Top>7.64874cm</Top>
             <Left>0.13486cm</Left>
             <Height>0.6cm</Height>
             <Width>3.68233cm</Width>
@@ -726,7 +726,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox37</rd:DefaultName>
-            <Top>11.45874cm</Top>
+            <Top>7.64874cm</Top>
             <Left>5.44503cm</Left>
             <Height>0.6cm</Height>
             <Width>1.07881cm</Width>
@@ -758,7 +758,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox37</rd:DefaultName>
-            <Top>14.27659cm</Top>
+            <Top>10.46659cm</Top>
             <Left>2.86588cm</Left>
             <Height>0.6cm</Height>
             <Width>1.07881cm</Width>
@@ -926,23 +926,8 @@
               </Border>
             </Style>
           </Tablix>
-          <Image Name="QR">
-            <Source>External</Source>
-            <Value>=Parameters!Path.Value</Value>
-            <Sizing>Fit</Sizing>
-            <Top>7.50763cm</Top>
-            <Left>2.40607cm</Left>
-            <Height>3.5cm</Height>
-            <Width>3.5cm</Width>
-            <ZIndex>20</ZIndex>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-            </Style>
-          </Image>
         </ReportItems>
-        <Height>6.10693in</Height>
+        <Height>4.44026in</Height>
         <Style />
       </Body>
       <Width>5.13392in</Width>

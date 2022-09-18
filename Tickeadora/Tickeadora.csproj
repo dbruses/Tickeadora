@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Tickeadora</RootNamespace>
     <AssemblyName>Tickeadora</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -156,6 +156,7 @@
     <EmbeddedResource Include="Reportes\AcaOronoA.rdlc" />
     <EmbeddedResource Include="Reportes\AcenafA.rdlc" />
     <EmbeddedResource Include="Reportes\AgropecuariosA.rdlc" />
+    <EmbeddedResource Include="Reportes\AlCostoA.rdlc" />
     <EmbeddedResource Include="Reportes\AmianoA.rdlc" />
     <EmbeddedResource Include="Reportes\AmianoB.rdlc" />
     <EmbeddedResource Include="Reportes\AnywayA.rdlc" />
@@ -168,6 +169,10 @@
     <EmbeddedResource Include="Reportes\AYFA.rdlc" />
     <EmbeddedResource Include="Reportes\AzulA.rdlc" />
     <EmbeddedResource Include="Reportes\BazarA.rdlc" />
+    <EmbeddedResource Include="Reportes\BoyacaLubA.rdlc" />
+    <EmbeddedResource Include="Reportes\CostaA.rdlc" />
+    <EmbeddedResource Include="Reportes\EnfacoA.rdlc" />
+    <EmbeddedResource Include="Reportes\EstDelOesteA.rdlc" />
     <EmbeddedResource Include="Reportes\FlemingA.rdlc" />
     <EmbeddedResource Include="Reportes\BerriniA.rdlc" />
     <EmbeddedResource Include="Reportes\BignamA.rdlc" />
@@ -212,6 +217,7 @@
     <EmbeddedResource Include="Reportes\FleteA.rdlc" />
     <EmbeddedResource Include="Reportes\FleteB.rdlc" />
     <EmbeddedResource Include="Reportes\FravegaA.rdlc" />
+    <EmbeddedResource Include="Reportes\GallianoA.rdlc" />
     <EmbeddedResource Include="Reportes\GarayA.rdlc" />
     <EmbeddedResource Include="Reportes\GralVillegasA.rdlc" />
     <EmbeddedResource Include="Reportes\HdlA.rdlc" />
@@ -225,6 +231,7 @@
     <EmbeddedResource Include="Reportes\IsoftlandB.rdlc" />
     <EmbeddedResource Include="Reportes\JnavarroA.rdlc" />
     <EmbeddedResource Include="Reportes\JnavarroB.rdlc" />
+    <EmbeddedResource Include="Reportes\JumealA.rdlc" />
     <EmbeddedResource Include="Reportes\JymA.rdlc" />
     <EmbeddedResource Include="Reportes\Km352A.rdlc" />
     <EmbeddedResource Include="Reportes\LaBlancaA.rdlc" />
@@ -237,6 +244,7 @@
     <EmbeddedResource Include="Reportes\LangoneB.rdlc" />
     <EmbeddedResource Include="Reportes\LangoneBCheque.rdlc" />
     <EmbeddedResource Include="Reportes\LaNueva.rdlc" />
+    <EmbeddedResource Include="Reportes\LaOperaA.rdlc" />
     <EmbeddedResource Include="Reportes\LaPlazaCHA.rdlc" />
     <EmbeddedResource Include="Reportes\LaRiberaCbaA.rdlc" />
     <EmbeddedResource Include="Reportes\LaRiberaTucA.rdlc" />
@@ -254,6 +262,7 @@
     <EmbeddedResource Include="Reportes\LimaAQR.rdlc" />
     <EmbeddedResource Include="Reportes\LimaB.rdlc" />
     <EmbeddedResource Include="Reportes\LimaBCheque.rdlc" />
+    <EmbeddedResource Include="Reportes\LimaLubA.rdlc" />
     <EmbeddedResource Include="Reportes\LinA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrishopA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrisolA.rdlc" />
@@ -261,6 +270,7 @@
     <EmbeddedResource Include="Reportes\LucianiA.rdlc" />
     <EmbeddedResource Include="Reportes\LucianiB.rdlc" />
     <EmbeddedResource Include="Reportes\MagnattiA.rdlc" />
+    <EmbeddedResource Include="Reportes\MartinezA.rdlc" />
     <EmbeddedResource Include="Reportes\MaserA.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoA.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoB.rdlc" />
@@ -269,6 +279,7 @@
     <EmbeddedResource Include="Reportes\MontalvanA.rdlc" />
     <EmbeddedResource Include="Reportes\MontalvanFactA.rdlc" />
     <EmbeddedResource Include="Reportes\MontalvanRecA.rdlc" />
+    <EmbeddedResource Include="Reportes\MoralesA.rdlc" />
     <EmbeddedResource Include="Reportes\MundoTextilA.rdlc" />
     <EmbeddedResource Include="Reportes\MundoTextilB.rdlc" />
     <EmbeddedResource Include="Reportes\NeumaticosAlfaA.rdlc" />
@@ -296,12 +307,15 @@
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
     <EmbeddedResource Include="Reportes\RosmiA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
+    <EmbeddedResource Include="Reportes\Ruta25A.rdlc" />
     <EmbeddedResource Include="Reportes\SagitarioA.rdlc" />
     <EmbeddedResource Include="Reportes\SaludB.rdlc" />
     <EmbeddedResource Include="Reportes\SanitariosMitreA - Cheque.rdlc" />
     <EmbeddedResource Include="Reportes\SanitariosMitreA.rdlc" />
     <EmbeddedResource Include="Reportes\SanNicolasA.rdlc" />
     <EmbeddedResource Include="Reportes\SarandiA.rdlc" />
+    <EmbeddedResource Include="Reportes\ServiciosPilarA.rdlc" />
+    <EmbeddedResource Include="Reportes\ServiLujanA.rdlc" />
     <EmbeddedResource Include="Reportes\ShellRuta25A.rdlc" />
     <EmbeddedResource Include="Reportes\ShellVictoriaA.rdlc" />
     <EmbeddedResource Include="Reportes\SuayaA.rdlc" />
@@ -312,6 +326,7 @@
     <EmbeddedResource Include="Reportes\TecmysB.rdlc" />
     <EmbeddedResource Include="Reportes\TecnoreparacionesA.rdlc" />
     <EmbeddedResource Include="Reportes\TelasxmetroA.rdlc" />
+    <EmbeddedResource Include="Reportes\TotoralA.rdlc" />
     <EmbeddedResource Include="Reportes\TransSanJustoA.rdlc" />
     <EmbeddedResource Include="Reportes\TYTA.rdlc" />
     <EmbeddedResource Include="Reportes\VeaA.rdlc" />

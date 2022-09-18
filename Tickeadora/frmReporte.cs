@@ -88,7 +88,9 @@ namespace Tickeadora
             string codAut = "70417054367476";
             string jsonS = "ver:" + ver + ",fecha:" + fechaJ + ",cuit:" + cuitJ + ",ptoVta:" + ptoVta + ",tipoCmp:" + tipoCompJ + ",nroCmp:" + nroComp + ",importe:" + total + ",moneda:" + moneda + ",ctz:" + ctz + ",tipoCodAut:" + tipoCodAut + ",codAut:" + codAut;
             string json64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(jsonS));
-            string url = "https://www.afip.gob.ar/fe/qr/?p=" + json64;
+            string url = "https://www.afip.gob.ar/fe/qr/?p=" + json64; //Se cambia por url fija
+            //string url = "https://serviciosweb.afip.gob.ar/clavefiscal/qr/publicInfoD.aspx";
+            //string url = "https://www.afip.gob.ar/landing/default.asp";
 
             QrEncoder qrEncoder = new QrEncoder(ErrorCorrectionLevel.H);
             QrCode qrCode = new QrCode();

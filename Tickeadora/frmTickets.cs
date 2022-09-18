@@ -514,7 +514,8 @@ namespace Tickeadora
                     double pctNoGrabado = 0;
                     if (!string.IsNullOrEmpty(row[1].ToString()))
                     {
-                        pctNoGrabado = Convert.ToDouble(row[1].ToString().Replace(",","."));
+                        //pctNoGrabado = Convert.ToDouble(row[1].ToString().Replace(",","."));
+                        pctNoGrabado = Convert.ToDouble(row[1].ToString());
                     }
                     dbConnection.Close();
 
