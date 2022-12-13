@@ -317,7 +317,7 @@
             <Source>Embedded</Source>
             <Value>logo</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>6.08566cm</Top>
+            <Top>10.21316cm</Top>
             <Left>0.4541cm</Left>
             <Height>1.02375cm</Height>
             <Width>7.65938cm</Width>
@@ -475,7 +475,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox41</rd:DefaultName>
-            <Top>6.15621cm</Top>
+            <Top>10.28371cm</Top>
             <Left>5.38694cm</Left>
             <Height>0.6cm</Height>
             <Width>1.47746cm</Width>
@@ -507,7 +507,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox42</rd:DefaultName>
-            <Top>6.15621cm</Top>
+            <Top>10.28371cm</Top>
             <Left>2.27108cm</Left>
             <Height>0.6cm</Height>
             <Width>2.20896cm</Width>
@@ -643,7 +643,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox37</rd:DefaultName>
-            <Top>7.28579cm</Top>
+            <Top>11.41329cm</Top>
             <Left>1.94342cm</Left>
             <Height>0.6cm</Height>
             <Width>3.68233cm</Width>
@@ -859,8 +859,22 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
+          <Image Name="QR">
+            <Source>External</Source>
+            <Value>=Parameters!Path.Value</Value>
+            <Top>6.01482cm</Top>
+            <Left>1.53406cm</Left>
+            <Height>3.81015cm</Height>
+            <Width>3.73812cm</Width>
+            <ZIndex>18</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
         </ReportItems>
-        <Height>3.29013in</Height>
+        <Height>4.85464in</Height>
         <Style />
       </Body>
       <Width>3.42962in</Width>

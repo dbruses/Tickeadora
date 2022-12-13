@@ -150,6 +150,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Reportes\2MIL10Y7A.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOnceA.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOnceAQR.rdlc" />
     <EmbeddedResource Include="Reportes\AcaOnceB.rdlc" />
@@ -169,8 +170,13 @@
     <EmbeddedResource Include="Reportes\AYFA.rdlc" />
     <EmbeddedResource Include="Reportes\AzulA.rdlc" />
     <EmbeddedResource Include="Reportes\BazarA.rdlc" />
+    <EmbeddedResource Include="Reportes\BeiroA.rdlc" />
     <EmbeddedResource Include="Reportes\BoyacaLubA.rdlc" />
+    <EmbeddedResource Include="Reportes\CarlitosA.rdlc" />
+    <EmbeddedResource Include="Reportes\CincoBocasA.rdlc" />
     <EmbeddedResource Include="Reportes\CostaA.rdlc" />
+    <EmbeddedResource Include="Reportes\DarsisaA.rdlc" />
+    <EmbeddedResource Include="Reportes\DdiA.rdlc" />
     <EmbeddedResource Include="Reportes\EnfacoA.rdlc" />
     <EmbeddedResource Include="Reportes\EstDelOesteA.rdlc" />
     <EmbeddedResource Include="Reportes\FlemingA.rdlc" />
@@ -229,6 +235,7 @@
     <EmbeddedResource Include="Reportes\HoxtonB.rdlc" />
     <EmbeddedResource Include="Reportes\IsoftlandA.rdlc" />
     <EmbeddedResource Include="Reportes\IsoftlandB.rdlc" />
+    <EmbeddedResource Include="Reportes\JardinA.rdlc" />
     <EmbeddedResource Include="Reportes\JnavarroA.rdlc" />
     <EmbeddedResource Include="Reportes\JnavarroB.rdlc" />
     <EmbeddedResource Include="Reportes\JumealA.rdlc" />
@@ -272,6 +279,7 @@
     <EmbeddedResource Include="Reportes\MagnattiA.rdlc" />
     <EmbeddedResource Include="Reportes\MartinezA.rdlc" />
     <EmbeddedResource Include="Reportes\MaserA.rdlc" />
+    <EmbeddedResource Include="Reportes\MaurerA.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoA.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoB.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoBConsFinal.rdlc" />
@@ -297,17 +305,24 @@
     <EmbeddedResource Include="Reportes\PonteA.rdlc" />
     <EmbeddedResource Include="Reportes\PonteB.rdlc" />
     <EmbeddedResource Include="Reportes\PortezueloA.rdlc" />
+    <EmbeddedResource Include="Reportes\PrincipeA.rdlc" />
+    <EmbeddedResource Include="Reportes\ProcomA.rdlc" />
     <EmbeddedResource Include="Reportes\Publi2A.rdlc" />
     <EmbeddedResource Include="Reportes\RafaelaA - Productos.rdlc" />
     <EmbeddedResource Include="Reportes\RafaelaA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressA.rdlc" />
     <EmbeddedResource Include="Reportes\RecargasExpressB.rdlc" />
     <EmbeddedResource Include="Reportes\RemoA.rdlc" />
+    <EmbeddedResource Include="Reportes\RepLincolnA.rdlc" />
     <EmbeddedResource Include="Reportes\RepVialesA.rdlc" />
+    <EmbeddedResource Include="Reportes\RerifeA.rdlc" />
+    <EmbeddedResource Include="Reportes\RivagasA.rdlc" />
+    <EmbeddedResource Include="Reportes\RoconalA.rdlc" />
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
     <EmbeddedResource Include="Reportes\RosmiA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
     <EmbeddedResource Include="Reportes\Ruta25A.rdlc" />
+    <EmbeddedResource Include="Reportes\Ruta8A.rdlc" />
     <EmbeddedResource Include="Reportes\SagitarioA.rdlc" />
     <EmbeddedResource Include="Reportes\SaludB.rdlc" />
     <EmbeddedResource Include="Reportes\SanitariosMitreA - Cheque.rdlc" />
@@ -318,6 +333,7 @@
     <EmbeddedResource Include="Reportes\ServiLujanA.rdlc" />
     <EmbeddedResource Include="Reportes\ShellRuta25A.rdlc" />
     <EmbeddedResource Include="Reportes\ShellVictoriaA.rdlc" />
+    <EmbeddedResource Include="Reportes\ShigaA.rdlc" />
     <EmbeddedResource Include="Reportes\SuayaA.rdlc" />
     <EmbeddedResource Include="Reportes\SuayaB.rdlc" />
     <EmbeddedResource Include="Reportes\SubbotinA.rdlc" />
@@ -328,6 +344,8 @@
     <EmbeddedResource Include="Reportes\TelasxmetroA.rdlc" />
     <EmbeddedResource Include="Reportes\TotoralA.rdlc" />
     <EmbeddedResource Include="Reportes\TransSanJustoA.rdlc" />
+    <EmbeddedResource Include="Reportes\TrasluxA.rdlc" />
+    <EmbeddedResource Include="Reportes\TravaniA.rdlc" />
     <EmbeddedResource Include="Reportes\TYTA.rdlc" />
     <EmbeddedResource Include="Reportes\VeaA.rdlc" />
     <EmbeddedResource Include="Reportes\VeaB.rdlc" />

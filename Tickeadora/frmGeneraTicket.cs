@@ -200,7 +200,7 @@ namespace Tickeadora
                             fechaTkt = fechaTkt.AddMinutes(newint);
                             fechaTkt = fechaTkt.AddSeconds(r.Next(0, 59));
 
-                            ntkt = Convert.ToInt16(lblPtoVta.Text).ToString("0000") + "-" + nroTkt.ToString("00000000");
+                            ntkt = Convert.ToInt16(lblPtoVta.Text).ToString("00000") + "-" + nroTkt.ToString("00000000");
 
                             sql = "insert into NrosTickets (idProveedor, fecha, hora, nroTicket, tipoTkt)";
                             sql = sql + " values (" + lblIdProv.Text + ",'" + fechaTkt.ToString("dd/MM/yyyy") + "','" + fechaTkt.ToString("HH:mm:ss") + "','" + ntkt + "','" + tipoTkt + "')";

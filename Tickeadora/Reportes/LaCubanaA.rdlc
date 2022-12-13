@@ -1098,7 +1098,7 @@
                       </Style>
                     </TextRun>
                     <TextRun>
-                      <Value>=Left(Fields!nroTicket.Value,4)</Value>
+                      <Value>=Left(Fields!nroTicket.Value,5)</Value>
                       <Style>
                         <FontSize>9pt</FontSize>
                       </Style>

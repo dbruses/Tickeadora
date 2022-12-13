@@ -494,8 +494,8 @@ namespace Tickeadora
                 {
                     //precioXLitro = precio * 0.6472369727;
                     //precioXLitro = precio * varPrecioBruto;
-                    precioXLitro = precio;
-                    subtotal = lts * precioXLitro;
+                    //precioXLitro = precio;
+                    
                     
                     //Calculo IngBtos
                     SQLiteConnection dbConnection = new SQLiteConnection("Data Source=Tickets.db;");
@@ -517,6 +517,10 @@ namespace Tickeadora
                         //pctNoGrabado = Convert.ToDouble(row[1].ToString().Replace(",","."));
                         pctNoGrabado = Convert.ToDouble(row[1].ToString());
                     }
+
+                    precioXLitro = precio / (1.21 + (pctNoGrabado / 100));
+                    subtotal = lts * precioXLitro;
+
                     dbConnection.Close();
 
                     if (ib == "S")

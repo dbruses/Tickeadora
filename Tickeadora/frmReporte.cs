@@ -48,7 +48,7 @@ namespace Tickeadora
             //string ctrl = ds.Tables[0].Rows[0]["Fecha"].ToString().Substring(0, 2) + ds.Tables[0].Rows[0]["Fecha"].ToString().Substring(3, 2) + ds.Tables[0].Rows[0]["Fecha"].ToString().Substring(8, 2) + " " + ds.Tables[0].Rows[0]["Hora"].ToString().Substring(0, 2) + ds.Tables[0].Rows[0]["Hora"].ToString().Substring(3, 2) + " 0240 005 020748";
             //ctrl = ctrl.Substring(0, 2);
 
-            GeneraQR(ds.Tables[0].Rows[0][1].ToString(), ds.Tables[0].Rows[0][15].ToString(), ds.Tables[0].Rows[0][0].ToString(), ds.Tables[0].Rows[0][8].ToString(), NombRep.Substring(NombRep.IndexOf(".rdlc")-1,1));
+            GeneraQR(ds.Tables[0].Rows[0][1].ToString(), ds.Tables[0].Rows[0][15].ToString(), ds.Tables[0].Rows[0][0].ToString(), ds.Tables[0].Rows[0][8].ToString(), NombRep.Substring(NombRep.IndexOf(".rdlc") - 1, 1));
 
             if (ds.Tables[0].Rows.Count > 0)
             {
@@ -60,37 +60,47 @@ namespace Tickeadora
                 ReportParameter param = new ReportParameter("Path", @"file:" + ruta, true);
                 reportViewer1.LocalReport.SetParameters(param);
             }
-                
+
         }
-         
+
         public void GeneraQR(string fecha, string cuit, string ptoVtaNComp, string total, string tipoComp)
         {
-            string fechaJ = fecha.Substring(6) + "-" + fecha.Substring(3,2) + "-" + fecha.Substring(0,2);
+            string fechaJ = fecha.Substring(6) + "-" + fecha.Substring(3, 2) + "-" + fecha.Substring(0, 2);
             string cuitJ = cuit.Replace("-", string.Empty);
-            string ptoVta = ptoVtaNComp.Substring(0, 4);
-            string nroComp = ptoVtaNComp.Substring(5);
+            int ptoVta = Convert.ToInt16(ptoVtaNComp.Substring(0, 5));
+            Int64 nroComp = Convert.ToInt64(ptoVtaNComp.Substring(6));
             string tipoCompJ = string.Empty;
             string ver = "1";
-            total = total.Replace(",", ".");
+            double tot = Convert.ToDouble(total);
+            //total = total.Replace(",", ".");
 
             if (tipoComp == "A")
             {
-                tipoCompJ = "081";
+                tipoCompJ = "81";
             }
             else
             {
-                tipoCompJ = "082";
+                tipoCompJ = "82";
             }
 
             string moneda = "PES";
             string ctz = "1";
             string tipoCodAut = "E";
             string codAut = "70417054367476";
-            string jsonS = "ver:" + ver + ",fecha:" + fechaJ + ",cuit:" + cuitJ + ",ptoVta:" + ptoVta + ",tipoCmp:" + tipoCompJ + ",nroCmp:" + nroComp + ",importe:" + total + ",moneda:" + moneda + ",ctz:" + ctz + ",tipoCodAut:" + tipoCodAut + ",codAut:" + codAut;
+            //string jsonS = "{\"ver\":" + ver + ",\"fecha\":\"" + fechaJ + "\",\"cuit\":" + cuitJ + ",\"ptoVta\":" + ptoVta.ToString() + ",\"tipoCmp\":" + tipoCompJ + ",\"nroCmp\":\"" + nroComp.ToString() + "\",\"importe\":" + tot.ToString() + ",\"moneda\":\"" + moneda + "\",\"ctz\":" + ctz + ",\"tipoDocRec\":99,\"nroDocRec\":0,\"tipoCodAut\":\"" + tipoCodAut + "\",\"codAut\":" + codAut;
+            string jsonS = "{\"ver\":" + ver + ",\"fecha\":\"" + fechaJ + "\",\"cuit\":" + cuitJ + ",\"ptoVta\":" + ptoVta.ToString() + ",\"tipoCmp\":" + tipoCompJ + ",\"nroCmp\":\"" + nroComp.ToString() + "\",\"importe\":" + tot.ToString() + ",\"moneda\":\"" + moneda + "\",\"ctz\":" + ctz + ",\"tipoCodAut\":\"" + tipoCodAut + "\",\"codAut\":" + codAut;
             string json64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(jsonS));
             string url = "https://www.afip.gob.ar/fe/qr/?p=" + json64; //Se cambia por url fija
-            //string url = "https://serviciosweb.afip.gob.ar/clavefiscal/qr/publicInfoD.aspx";
-            //string url = "https://www.afip.gob.ar/landing/default.asp";
+                                                                       //string url = "https://serviciosweb.afip.gob.ar/clavefiscal/qr/publicInfoD.aspx";
+                                                                       //string url = "https://www.afip.gob.ar/landing/default.asp";
+                                                                       //  http://qr.afip.gob.ar/?qr=
+
+            /*
+            eyJ2ZXIiOjEsImZlY2hhIjoiMjAyMi0wNy0yMCIsImN1aXQiOjMwNjc4Nzc0NDk1LCJwdG9WdGEiOjY0MDIsInRpcG9DbXAiOjYsIm5yb0NtcCI6IjU3OTAzIiwiaW1wb3J0ZSI6MjAwMCwibW9uZWRhIjoiUEVTIiwiY3R6IjoxLCJ0aXBvRG9jUmVjIjo5OSwibnJvRG9jUmVjIjowLCJ0aXBvQ29kQXV0IjoiRSIsImNvZEF1dCI6NzIyOTUzNTI4NzAyNjF9    --- original
+            eyJ2ZXIiOjEsImZlY2hhIjoiMjAyMi0wNy0yMCIsImN1aXQiOjMwNjc4Nzc0NDk1LCJwdG9WdGEiOjY0MDIsInRpcG9DbXAiOjYsIm5yb0NtcCI6IjU3OTAzIiwiaW1wb3J0ZSI6MjAwMCwibW9uZWRhIjoiUEVTIiwiY3R6IjoxLCJ0aXBvRG9jUmVjIjo5OSwibnJvRG9jUmVjIjowLCJ0aXBvQ29kQXV0IjoiRSIsImNvZEF1dCI6NzIyOTUzNTI4NzAyNjF9
+
+            {"ver":1,"fecha":"2022-07-20","cuit":30678774495,"ptoVta":6402,"tipoCmp":6,"nroCmp":"57903","importe":2000,"moneda":"PES","ctz":1,"tipoDocRec":99,"nroDocRec":0,"tipoCodAut":"E","codAut":72295352870261}
+            */
 
             QrEncoder qrEncoder = new QrEncoder(ErrorCorrectionLevel.H);
             QrCode qrCode = new QrCode();
