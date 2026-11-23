@@ -177,6 +177,8 @@
     <EmbeddedResource Include="Reportes\CostaA.rdlc" />
     <EmbeddedResource Include="Reportes\DarsisaA.rdlc" />
     <EmbeddedResource Include="Reportes\DdiA.rdlc" />
+    <EmbeddedResource Include="Reportes\DistribuidoraAlimentosA.rdlc" />
+    <EmbeddedResource Include="Reportes\ElRodeoA.rdlc" />
     <EmbeddedResource Include="Reportes\EnfacoA.rdlc" />
     <EmbeddedResource Include="Reportes\EstDelOesteA.rdlc" />
     <EmbeddedResource Include="Reportes\FlemingA.rdlc" />
@@ -273,11 +275,12 @@
     <EmbeddedResource Include="Reportes\LinA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrishopA.rdlc" />
     <EmbeddedResource Include="Reportes\LubrisolA.rdlc" />
+    <EmbeddedResource Include="Reportes\LucasA.rdlc" />
     <EmbeddedResource Include="Reportes\LucasB.rdlc" />
     <EmbeddedResource Include="Reportes\LucianiA.rdlc" />
     <EmbeddedResource Include="Reportes\LucianiB.rdlc" />
     <EmbeddedResource Include="Reportes\MagnattiA.rdlc" />
-    <EmbeddedResource Include="Reportes\MartinezA.rdlc" />
+    <EmbeddedResource Include="Reportes\MartinezA - OLD.rdlc" />
     <EmbeddedResource Include="Reportes\MaserA.rdlc" />
     <EmbeddedResource Include="Reportes\MaurerA.rdlc" />
     <EmbeddedResource Include="Reportes\MercadoA.rdlc" />
@@ -321,6 +324,7 @@
     <EmbeddedResource Include="Reportes\RojoAmarilloA.rdlc" />
     <EmbeddedResource Include="Reportes\RosmiA.rdlc" />
     <EmbeddedResource Include="Reportes\RuataA.rdlc" />
+    <EmbeddedResource Include="Reportes\MartinezA.rdlc" />
     <EmbeddedResource Include="Reportes\Ruta25A.rdlc" />
     <EmbeddedResource Include="Reportes\Ruta8A.rdlc" />
     <EmbeddedResource Include="Reportes\SagitarioA.rdlc" />

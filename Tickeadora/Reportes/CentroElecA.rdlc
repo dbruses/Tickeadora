@@ -874,7 +874,7 @@ DGI</Value>
       <Width>3.25359in</Width>
       <Page>
         <PageHeader>
-          <Height>8.73226cm</Height>
+          <Height>10.24038cm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
@@ -1298,7 +1298,7 @@ DGI</Value>
                       </Style>
                     </TextRun>
                     <TextRun>
-                      <Value>=Left(First(Fields!nroTicket.Value, "dsTicket"),4)</Value>
+                      <Value>=Left(First(Fields!nroTicket.Value, "dsTicket"),5)</Value>
                       <Style>
                         <FontFamily>Ticketing</FontFamily>
                       </Style>

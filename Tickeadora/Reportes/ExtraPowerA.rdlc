@@ -1330,7 +1330,7 @@
                       </Style>
                     </TextRun>
                     <TextRun>
-                      <Value>=Left(First(Fields!nroTicket.Value, "dsTicket"),4)</Value>
+                      <Value>=Left(First(Fields!nroTicket.Value, "dsTicket"),5)</Value>
                       <Style>
                         <FontSize>9pt</FontSize>
                       </Style>
